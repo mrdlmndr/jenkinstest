@@ -1,4 +1,5 @@
-package ca.uwo.csd.cs2212.USERNAME;
+//package ca.uwo.csd.cs2212.USERNAME;
+package main.USERNAME;
 
 public class BankAccount {
 
